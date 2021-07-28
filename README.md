@@ -12,8 +12,8 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
-
+![alt text]()
+### https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg
 <!-- Add your details -->
 
 I am __Angela Cheng__, a results-oriented professional, experienced in analyzing and reporting business performance across different industries. As a certified data analyst, has proven the ability in interpreting data, providing insights to drive business decisions and institute business planning processes in a systematic way. A strategic thinker and solution provider who has earned a reputation for achieving excellence and high quality work in previous roles.
