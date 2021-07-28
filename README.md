@@ -95,9 +95,16 @@ I am part of BDA track on BCG Rise project.
 
 ##### Certifications
 2021		Boston Consulting Group - BCG Rise Program (in-progress)
+
 2019		Wiley Certified Data Analyst
 
 
 ##### Achievements
-Star performer of the year at Accenture
+•	Received recognition awards at Borneo Motors:
+o	Produced insightful analysis for strategic planning to attain market leadership and exceed business targets, improved stock availability through active management of demand and supply process
+o	Received appreciation letter from customer for team effort in smooth delivery of taxi fleet, leading to repeat business of more than 800 vehicles
+•	Good Job award at Royal & Sun Alliance (Insurance) for improving data visualization and analysis, providing a holistic view of business performance for business planning
+•	Winner of WOW award at Synovate (Market Research) for leading team to deliver accurate outputs and achieve 95% on time completion of projects
+•	Won two presentation awards at Singapore Eye Research Institute, which covered investigating data that are collected, analyzed and published. Co-authored research papers in international publications
+
 <!-- FEATURED Section Ends -->
